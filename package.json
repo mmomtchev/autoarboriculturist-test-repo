@@ -1,0 +1,26 @@
+{
+  "name": "autoarboriculturist-test-repo",
+  "version": "1.0.0",
+  "description": "autoarboriculturist test repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmomtchev/autoarboriculturist-test-repo.git"
+  },
+  "keywords": [
+    "autoarboriculturist"
+  ],
+  "author": "Momtchil Momtchev <momtchil@momtchev.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmomtchev/autoarboriculturist-test-repo/issues"
+  },
+  "homepage": "https://github.com/mmomtchev/autoarboriculturist-test-repo#readme",
+  "dependencies": {
+    "async-await-queue": "^1.2.0",
+    "yatag": "^1.1.0"
+  }
+}
